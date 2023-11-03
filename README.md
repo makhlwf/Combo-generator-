@@ -71,4 +71,3 @@ A versatile tool that allows you to generate proxies and email/password pairs wi
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
 
-Please ensure you've placed this README.md file in your repository's root directory for it to be displayed properly on your GitHub repository page.
