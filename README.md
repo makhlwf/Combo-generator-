@@ -69,5 +69,3 @@ A versatile tool that allows you to generate proxies and email/password pairs wi
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
