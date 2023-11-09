@@ -1,11 +1,9 @@
 # Combined Generator Tool by MAKHLWF
 
-![GitHub](https://img.shields.io/github/license/makhlwf/Combo-generator-)
-![GitHub last commit](https://img.shields.io/github/last-commit/makhlwf/Combo-generator-)
+[![License](https://img.shields.io/github/license/makhlwf/Combo-generator-)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/makhlwf/Combo-generator-)](https://github.com/makhlwf/Combo-generator-/commits)
 
-A versatile tool that allows you to generate proxies and email/password pairs with ease.
-
-- Author: [@makhlwf](https://t.me/makhlwf)
+A powerful tool crafted by [@makhlwf](https://t.me/makhlwf) for seamless proxy and email/password pair generation.
 
 ## Table of Contents
 
@@ -18,14 +16,14 @@ A versatile tool that allows you to generate proxies and email/password pairs wi
 
 ## Features
 
-- Proxy generation: Create a list of proxy IP addresses.
-- Email/password generation: Generate email and password pairs with customizable password strength.
-- User-friendly menu for choosing the desired functionality.
+- **Proxy Generation:** Easily create a list of proxy IP addresses.
+- **Email/Password Generation:** Generate secure email and password pairs with customizable password strength.
+- **User-Friendly Menu:** Intuitive menu for selecting desired functionality.
 
 ## Prerequisites
 
 - Python 3.x
-- tqdm (for progress bars)
+- [tqdm](https://github.com/tqdm/tqdm) (for progress bars)
 
 ## Installation
 
@@ -50,22 +48,22 @@ A versatile tool that allows you to generate proxies and email/password pairs wi
    python Main.py
    ```
 
-2. You will be presented with a menu to choose between proxy generation, email/password generation, or exiting the tool.
+2. Choose between proxy generation, email/password generation, or exit the tool.
 
 ## Options
 
 - **Proxy Generator**
   - Enter a filename to save the generated proxies.
-  - Enter the number of proxies to generate.
+  - Specify the number of proxies to generate.
 
 - **Email and Password Generator**
-  - Enter the number of email/password pairs to generate.
+  - Specify the number of email/password pairs to generate.
   - Set the desired password length.
-  - Specify the filename to save the generated pairs.
+  - Choose a filename to save the generated pairs.
 
 - **Exit**
-  - Choose this option to exit the tool.
+  - Select this option to gracefully exit the tool.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE).
