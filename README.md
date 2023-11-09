@@ -1,9 +1,9 @@
-# Ultimate Generator Toolkit by MAKHLWF
+# Combo Generator Tool by MAKHLWF
 
-[![License](https://img.shields.io/github/license/makhlwf/Ultimate-Generator-Toolkit)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/makhlwf/Ultimate-Generator-Toolkit)](https://github.com/makhlwf/Ultimate-Generator-Toolkit/commits)
+[![License](https://img.shields.io/github/license/makhlwf/Combo-Generator-Tool)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/makhlwf/Combo-Generator-Tool)](https://github.com/makhlwf/Combo-Generator-Tool/commits)
 
-Unleash the power of the Ultimate Generator Toolkit crafted by [@makhlwf](https://t.me/makhlwf) – your gateway to seamless proxy and email/password pair generation.
+Unleash the potential of the Combo Generator Tool crafted by [@makhlwf](https://t.me/makhlwf). Your go-to solution for seamless proxy and email/password pair generation.
 
 ## Table of Contents
 
@@ -16,8 +16,8 @@ Unleash the power of the Ultimate Generator Toolkit crafted by [@makhlwf](https:
 - [Usage](#usage)
 - [Options](#options)
 - [Advanced Features](#advanced-features)
-- [Contributing](#contributing)
 - [License](#license)
+- [Development](#development)
 
 ## Features
 
@@ -37,15 +37,15 @@ Unleash the power of the Ultimate Generator Toolkit crafted by [@makhlwf](https:
 Clone this repository to your local machine:
 
 ```shell
-git clone https://github.com/makhlwf/Ultimate-Generator-Toolkit.git
+git clone https://github.com/makhlwf/Combo-Generator-Tool.git
 ```
 
 ### Navigate to Repository Folder
 
-Navigate to the toolkit's directory:
+Navigate to the tool's directory:
 
 ```shell
-cd Ultimate-Generator-Toolkit
+cd Combo-Generator-Tool
 ```
 
 ### Install Dependencies
@@ -58,13 +58,13 @@ pip install tqdm
 
 ## Usage
 
-1. Start the toolkit by running the following command in the toolkit's directory:
+1. Start the tool by running the following command in the tool's directory:
 
    ```shell
    python Main.py
    ```
 
-2. Choose between proxy generation, email/password generation, or exit the toolkit.
+2. Choose between proxy generation, email/password generation, or exit the tool.
 
 ## Options
 
@@ -78,16 +78,16 @@ pip install tqdm
   - Choose a filename to save the generated pairs.
 
 - **Exit**
-  - Select this option to gracefully exit the toolkit.
+  - Select this option to gracefully exit the tool.
 
 ## Advanced Features
 
-Explore additional features and contribute to the toolkit's development. Check the [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-## Contributing
-
-We welcome contributions! Check out the [Contributing Guidelines](CONTRIBUTING.md) to get started.
+Explore additional features and the development of the tool.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Development
+
+Join the development journey, contribute, and make the tool even better! Feel free to raise issues and pull requests.
